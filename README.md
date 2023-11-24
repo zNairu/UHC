@@ -8,4 +8,4 @@
 - UHC Random
 - DemonSlayerUHC V3 Domei Edition
 
-**feel fre to DM me on discord if you have any gamemode to add (hcqttt)**
+**Feel free to DM me on discord if you have any gamemode to add (hcqttt)**
