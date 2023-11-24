@@ -1,7 +1,5 @@
 ***
-# repository for all french uhc plugins :
-# by hcqt
-# currents :
+# repository for french uhc plugins :
 - HoxPlugin
 - LG-UHC Ph1lou
 - LG-UHC Lapin
