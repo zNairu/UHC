@@ -1,6 +1,6 @@
-# REPOSITORY TO PUT ALL FRENCH UHC PLUGINS :
-## BY HCQT
-### Currents :
+# repository for all french uhc plugins :
+## by hcqt
+### currents :
 
 - HoxPlugin
 - LG-UHC Ph1lou
@@ -10,10 +10,10 @@
 - DemonSlayerUHC V3 Domei Edition
 - Pyralia HostPlugin
 ***
-- HoxPlugin is made with outdated Skript Addons. You may need to update GUI's and Addons by Yourself.
-- LG-UHC Lapin contains some Bugs, we are looking forward to update them.
+- HoxPlugin is made with outdated skript addons. you may need to update gui's and other addons by yourself.
+- LG-UHC Lapin contains some Bugs, we are looking forward to update them soon.
 ***
   
-*All rights given to plugin creators*
+*all rights given to plugin creators*
 
-**Feel free to DM me on discord if you have any gamemode to add (hcqttt)**
+**aeel free to dm me on discord if you have any french uhc plugins to add (hcqttt)**
