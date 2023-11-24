@@ -9,9 +9,10 @@
 - UHC Random
 - DemonSlayerUHC V3 Domei Edition
 - Pyralia HostPlugin
-  
-- ***HoxPlugin is made with outdated Skript Addons. You may need to update GUI's and Addons by Yourself.
-- LG-UHC Lapin contains some Bugs, we are looking forward to update them.***
+***
+- HoxPlugin is made with outdated Skript Addons. You may need to update GUI's and Addons by Yourself.
+- LG-UHC Lapin contains some Bugs, we are looking forward to update them.
+***
   
 *All rights given to plugin creators*
 
