@@ -7,6 +7,8 @@
 - UHC Random
 - DemonSlayerUHC V3 Domei Edition
 - Pyralia HostPlugin
+- TaupeGun
+- SuperTaupe
 ***
 - HoxPlugin & Pyralia HostPlugin are made with outdated skript addons. you may need to update gui's and other addons by yourself.
 - LG-UHC Lapin contains some Bugs, we are looking forward to update them soon.
