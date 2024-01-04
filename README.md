@@ -9,6 +9,7 @@
 - Pyralia HostPlugin
 - TaupeGun
 - SuperTaupe
+- MHA UHC
 ***
 - HoxPlugin & Pyralia HostPlugin are made with outdated skript addons. you may need to update gui's and other addons by yourself.
 - LG-UHC Lapin contains some Bugs, we are looking forward to update them soon.
