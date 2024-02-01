@@ -19,4 +19,4 @@
 
 ***
 
-**feel free to dm me on discord if you have any french uhc plugins to add (hcqttt)**
+**feel free to dm me on discord if you have any french uhc plugins to add (zNairu)**
