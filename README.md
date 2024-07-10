@@ -19,7 +19,7 @@ Bienvenue dans le répertoire de plugins UHC ! Cette collection propose des plug
 - **Licence** : ![GitHub license](https://img.shields.io/github/license/zNairu/UHC)
 
 ## Comment Utiliser 🚀
-- **Download release** : ![GitHub Releases](https://github.com//zNairu/UHC/releases)
+- **Télécharger dans les releases** : [GitHub Releases](https://github.com//zNairu/UHC/releases)
 
 ## Contribution 🤝
 Les contributions sont les bienvenues ! Veuillez forker ce répertoire et soumettre une pull request avec vos modifications.
@@ -51,7 +51,7 @@ Welcome to the UHC Plugin Repository! This collection features French Ultra Hard
 - **License**: ![GitHub license](https://img.shields.io/github/license/zNairu/UHC)
 
 ## How to Use 🚀
-wip
+- **Download in releases** : [GitHub Releases](https://github.com//zNairu/UHC/releases)
 
 ## Contribution 🤝
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
