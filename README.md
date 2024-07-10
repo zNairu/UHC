@@ -19,7 +19,7 @@ Bienvenue dans le répertoire de plugins UHC ! Cette collection propose des plug
 - **Licence** : ![GitHub license](https://img.shields.io/github/license/zNairu/UHC)
 
 ## Comment Utiliser 🚀
-- **Download release** : ![GitHub Releases](https://img.shields.io/github/license/zNairu/UHC/releases)
+- **Download release** : ![GitHub Releases](https://github.com//zNairu/UHC/releases)
 
 ## Contribution 🤝
 Les contributions sont les bienvenues ! Veuillez forker ce répertoire et soumettre une pull request avec vos modifications.
