@@ -4,13 +4,10 @@
 Bienvenue dans le répertoire de plugins UHC ! Cette collection propose des plugins Ultra Hardcore (UHC) français pour Minecraft, adaptés à divers thèmes et fonctionnalités pour une expérience de jeu améliorée.
 
 ## Plugins Inclus 🛠️
-- **HoxPlugin**
 - **LG-UHC Ph1lou**
-- **LG-UHC Lapin**
 - **Naruto UHC v1 Domei Edition**
 - **UHC Random**
 - **DemonSlayerUHC V3 Domei Edition**
-- **Pyralia Host**
 
 ## Statistiques du Projet 📊
 - **Étoiles** : ![GitHub stars](https://img.shields.io/github/stars/zNairu/UHC) (mettez en une c gratuit svp ça fait manger)
@@ -43,13 +40,10 @@ Ce projet est sous licence MIT.
 Welcome to the UHC Plugin Repository! This collection features French Ultra Hardcore (UHC) plugins designed for Minecraft, tailored to various themes and functionalities for an enhanced gaming experience.
 
 ## Plugins Included 🛠️
-- **HoxPlugin**
 - **LG-UHC Ph1lou**
-- **LG-UHC Lapin**
 - **Naruto UHC v1 Domei Edition**
 - **UHC Random**
 - **DemonSlayerUHC V3 Domei Edition**
-- **Pyralia Host**
 
 ## Project Stats 📊
 - **Stars**: ![GitHub stars](https://img.shields.io/github/stars/zNairu/UHC) (leave one plz its free)
