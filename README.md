@@ -45,7 +45,7 @@ Welcome to the UHC Plugin Repository! This collection features French Ultra Hard
 - **Pyralia Host**
 
 ## Project Stats 📊
-- **Stars**: ![GitHub stars](https://img.shields.io/github/stars/zNairu/UHC) (leave one plz)
+- **Stars**: ![GitHub stars](https://img.shields.io/github/stars/zNairu/UHC) (leave one plz its free)
 - **Forks**: ![GitHub forks](https://img.shields.io/github/forks/zNairu/UHC)
 - **Issues**: ![GitHub issues](https://img.shields.io/github/issues/zNairu/UHC)
 - **License**: ![GitHub license](https://img.shields.io/github/license/zNairu/UHC)
