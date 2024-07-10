@@ -4,9 +4,9 @@
 Bienvenue dans le répertoire de plugins UHC ! Cette collection propose des plugins Ultra Hardcore (UHC) français pour Minecraft, adaptés à divers thèmes et fonctionnalités pour une expérience de jeu améliorée.
 
 ## Plugins Inclus 🛠️
-- **LG-UHC Ph1lou**
 - **Naruto UHC v1 Domei Edition**
 - **UHC Random**
+- **Taupe Gun**
 - **DemonSlayerUHC V3 Domei Edition**
 
 ## Statistiques du Projet 📊
@@ -40,7 +40,7 @@ Ce projet est sous licence MIT.
 Welcome to the UHC Plugin Repository! This collection features French Ultra Hardcore (UHC) plugins designed for Minecraft, tailored to various themes and functionalities for an enhanced gaming experience.
 
 ## Plugins Included 🛠️
-- **LG-UHC Ph1lou**
+- **Taupe Gun**
 - **Naruto UHC v1 Domei Edition**
 - **UHC Random**
 - **DemonSlayerUHC V3 Domei Edition**
