@@ -13,7 +13,7 @@ Bienvenue dans le répertoire de plugins UHC ! Cette collection propose des plug
 - **Pyralia Host**
 
 ## Statistiques du Projet 📊
-- **Étoiles** : ![GitHub stars](https://img.shields.io/github/stars/zNairu/UHC)
+- **Étoiles** : ![GitHub stars](https://img.shields.io/github/stars/zNairu/UHC) (mettez en une c gratuit svp ça fait manger)
 - **Forks** : ![GitHub forks](https://img.shields.io/github/forks/zNairu/UHC)
 - **Problèmes** : ![GitHub issues](https://img.shields.io/github/issues/zNairu/UHC)
 - **Licence** : ![GitHub license](https://img.shields.io/github/license/zNairu/UHC)
@@ -45,7 +45,7 @@ Welcome to the UHC Plugin Repository! This collection features French Ultra Hard
 - **Pyralia Host**
 
 ## Project Stats 📊
-- **Stars**: ![GitHub stars](https://img.shields.io/github/stars/zNairu/UHC)
+- **Stars**: ![GitHub stars](https://img.shields.io/github/stars/zNairu/UHC) (leave one plz)
 - **Forks**: ![GitHub forks](https://img.shields.io/github/forks/zNairu/UHC)
 - **Issues**: ![GitHub issues](https://img.shields.io/github/issues/zNairu/UHC)
 - **License**: ![GitHub license](https://img.shields.io/github/license/zNairu/UHC)
