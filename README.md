@@ -24,6 +24,13 @@ Bienvenue dans le répertoire de plugins UHC ! Cette collection propose des plug
 ## Contribution 🤝
 Les contributions sont les bienvenues ! Veuillez forker ce répertoire et soumettre une pull request avec vos modifications.
 
+## Infos après MAJ 📣
+
+- Supression HoxPlugin & MHA UHC en raison de leur reprises par [Eterny](https://discord.gg/eternyuhc) avec l'accord du propriétaire des deux modes de jeux.
+- Supression LG-Lapin en raison d'une multitude de bugs, et de la vieillesse du plugin.
+- Supression Pyralia car trop facile à trouver sur internet, et remplis d'une multitude de bugs.
+- Vous pouvez maintenant trouver tous les plugins dans la section [Releases] du Repo (https://github.com//zNairu/UHC/releases).
+
 ## Licence 📄
 Ce projet est sous licence MIT.  
 
@@ -56,5 +63,12 @@ Welcome to the UHC Plugin Repository! This collection features French Ultra Hard
 ## Contribution 🤝
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
 
+## Infos after the lastest update 📣
+- Deletion of HoxPlugin & MHA UHC due to their takeover by [Eterny](https://discord.gg/eternyuhc) with the agreement of the owner of both game modes.
+- Deletion of LG-Lapin due to a multitude of bugs and the plugin's age.
+- Deletion of Pyralia because it's too easy to find on the Internet, and full of bugs.
+- You can now find every plugin in the Repo's [Releases](https://github.com//zNairu/UHC/releases).
+
+  
 ## License 📄
 This project is licensed under the MIT License.
