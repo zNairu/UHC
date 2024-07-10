@@ -26,9 +26,8 @@ Les contributions sont les bienvenues ! Veuillez forker ce répertoire et soumet
 
 ## Licence 📄
 Ce projet est sous licence MIT.
-_ _
-_ _
-_ _
+<br>
+<br>
 ---
 
 # UHC Plugin Repository 🎮
